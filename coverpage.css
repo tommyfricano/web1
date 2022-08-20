@@ -1,0 +1,108 @@
+
+header{
+    float: right;
+    background-color: #595959;
+    color:#c19ee0;
+    position: fixed;
+    top: 5px;
+    left: 0;
+    right: 0;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 17px;
+    box-shadow: 0 0 10px 0 black;
+}
+
+header *{
+    display: inline;
+}
+
+header li {
+    display: inline;
+    font-family: 'Avenir', sans-serif;
+    margin: 17px;
+}
+
+header li a{
+    color:#c19ee0;
+    text-decoration: none;
+}
+
+header a:hover{
+    color: #d2b7e5;
+}
+
+header a.active{
+    color:#d2b7e5;
+}
+
+h1{
+    color: white;
+}
+
+.introduction {
+    text-align: left;
+    margin-top: 180;
+    color: #c19ee0;
+    font-style: normal;
+    text-indent: 12%;
+    font-family: 'Avenir', sans-serif;
+}
+
+.projects {
+    text-align: left;
+    margin-top: 80px;
+    color: #c19ee0;
+    padding-left: 12%;
+    font-style: normal;
+    font-family: 'Avenir', sans-serif;
+}
+
+.projects ul{
+    text-decoration: none;
+    list-style: none;
+}
+
+.experience {
+    text-align: left;
+    text-indent: 12%;
+    color: #c19ee0;
+    font-style: normal;
+    border: 10px;
+    border-radius: 10%;
+    font-family: 'Avenir', sans-serif;
+}
+
+.info {
+    text-align: left;
+    padding-left: 12%;
+    color: white;
+    font-style: normal;
+    font-family: 'Avenir', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.info a{
+    color: white;
+}
+
+.column{
+    float: left;
+    width: 30%;
+    padding-left: 12%;
+}
+
+/* .row::After{
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+.picture {
+    display: block;
+    border: 4px solid #595959;
+    border-color: #595959;
+}
