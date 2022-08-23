@@ -1,0 +1,35 @@
+.info {
+    text-align: left;
+    color: white;
+    font-style: normal;
+    margin-top: 200px;
+    font-family: 'Avenir', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.info a{
+    color: white;
+}
+
+.info a:hover{
+    color: #d2b7e5;
+}
+
+.column{
+    float: left;
+    width: 30%;
+    padding-left: 6.7%;
+}
+
+/* .row::After{
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+.picture {
+    display: block;
+    border: 4px solid #595959;
+    border-color: #595959;
+}

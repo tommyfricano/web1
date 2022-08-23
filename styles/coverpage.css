@@ -1,0 +1,50 @@
+
+.introduction {
+    text-align: left;
+    margin-top: 325px;
+    color: #c19ee0;
+    font-style: normal;
+    font-size: 27px;
+    text-indent: 12%;
+    font-family: 'Avenir', sans-serif;
+}
+
+.projects {
+    text-align: left;
+    margin-top: 300px;
+    color: #c19ee0;
+    font-size: 28px;
+    padding-left: 12%;
+    font-style: normal;
+    font-family: 'Avenir', sans-serif;
+}
+
+.projectPictures{
+    width: 210px;
+    height: 145px;
+    display: inline-block;
+    border: 4px solid #595959;
+    border-color: #595959;
+}
+
+.projects ul{
+    text-decoration: none;
+    list-style: none;
+}
+
+.experience {
+    text-align: left;
+    text-indent: 12%;
+    color: #c19ee0;
+    font-style: normal;
+    margin-top: 300px;
+    border: 10px;
+    font-size: 28px;
+    border-radius: 10%;
+    font-family: 'Avenir', sans-serif;
+}
+
+.experience ul{
+    text-decoration: none;
+    list-style: none;
+}
