@@ -20,8 +20,8 @@
 }
 
 .projectPictures{
-    width: 210px;
-    height: 145px;
+    width: 340px;
+    height: 235px;
     display: inline-block;
     border: 4px solid #595959;
     border-color: #595959;
@@ -36,7 +36,7 @@
     text-align: left;
     text-indent: 12%;
     color: #c19ee0;
-    margin-top: 325px;
+    margin-top: 335px;
     border: 10px;
     font-size: 28px;
     border-radius: 10%;
@@ -50,6 +50,7 @@
 .experience pre{
     font-size: 20px;
     text-indent: 3%;
+    margin-top: 18px;
 }
 
 .experience ul{
